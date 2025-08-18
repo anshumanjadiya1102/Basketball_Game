@@ -3,6 +3,7 @@ If you want to play this game, please ensure that you have:
 - Java 17 (or newer)
 - Maven (to build)
 - JDK (Java Development Kit)
+- (Optional) JavaFX SDK (only if your JDK doesn’t bundle it)
 
 ## Prereqs
 - Java 17+
