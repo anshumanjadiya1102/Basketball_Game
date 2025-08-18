@@ -1,4 +1,5 @@
 # JavaFX Football Multiplayer
+If you want to play this game, please ensure that you have Ja
 
 ## Prereqs
 - Java 17+
