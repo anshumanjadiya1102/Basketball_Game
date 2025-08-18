@@ -1,0 +1,4 @@
+.root { -fx-background-color: linear-gradient(to bottom, #0e1f12, #15301b); }
+.hud { -fx-background-color: rgba(0,0,0,0.25); -fx-alignment: center-left; }
+.score { -fx-text-fill: #f8fafc; -fx-font-size: 28px; -fx-font-weight: bold; -fx-font-family: "Segoe UI", "Inter", sans-serif; }
+.you-are { -fx-text-fill: #e2e8f0; -fx-font-size: 16px; }
